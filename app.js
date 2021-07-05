@@ -1,4 +1,4 @@
-import WebXRPolyfill from './node_modules/webxr-polyfill/webxr-polyfill/build/webxr-polyfill.min.js';
+//import WebXRPolyfill from './node_modules/webxr-polyfill/webxr-polyfill/build/webxr-polyfill.min.js';
 const polyfill = new WebXRPolyfill();
 import * as THREE from './libs/three125/three.module.js';
 import { GLTFLoader } from './libs/three/jsm/GLTFLoader.js';
