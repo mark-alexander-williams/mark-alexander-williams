@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "three-outlinepass": "^1.2.0"
+    "three-outlinepass": "^1.2.0",
+    "webxr-polyfill": "^2.0.3"
   }
 }
